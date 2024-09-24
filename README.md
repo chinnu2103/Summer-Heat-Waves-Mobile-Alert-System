@@ -1,2 +1,5 @@
-# Summer-Heat-Waves-Mobile-Alert-System
-The **Summer Heat Waves Mobile Alert System** is designed to provide timely warnings to users about extreme heat events, helping them stay safe. The system analyzes historical temperature data to identify patterns and predict heatwaves. Using machine learning models like Random Forest, it classifies temperatures and generates alerts.
+# Task3
+Summer Heat Waves Mobile Alert System (internship project)
+DATA : Ensure you have a CSV file (historical_temperature_data.csv) with your temperature data
+required : pip install pandas twilio
+Sign up for a Twilio account if you don't have one. Obtain your Account SID and Auth Token from the Twilio Console.
